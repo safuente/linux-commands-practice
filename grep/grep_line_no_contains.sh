@@ -1,0 +1,1 @@
+grep -v bird test_file.txt
